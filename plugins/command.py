@@ -44,7 +44,7 @@ async def start(client, message):
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ ʜᴇʀᴇ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ', url='https://t.me/amal_nath_05')
             ],[
-            InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ ʜᴇʀᴇ', switch_inline_query_current_chat='')
+            InlineKeyboardButton('➕ ᴀᴅᴅ ᴛᴏ ɢʀᴏᴜᴘ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -89,7 +89,7 @@ async def start(client, message):
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ ʜᴇʀᴇ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('📢 ᴜᴘᴅᴀᴛᴇ', url='https://t.me/amal_nath_05')
             ],[
-            InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ ʜᴇʀᴇ', switch_inline_query_current_chat='')
+            InlineKeyboardButton('➕ ᴀᴅᴅ ᴛᴏ ɢʀᴏᴜᴘ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
